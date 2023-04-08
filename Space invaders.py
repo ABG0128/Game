@@ -9,7 +9,7 @@ todo lo que pase dentro de una pantalla de pygame es un evento TODO y podemos us
 '''
 
 #create screen
-screen = pygame.display.set_mode((800,600))
+screen = pygame.display.set_mode((800, 600))
 
 #create background
 background = pygame.image.load('background.jpg')
